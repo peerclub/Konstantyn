@@ -1,0 +1,130 @@
+{
+  "avatar": "https://0.gravatar.com/avatar/b700a93656ece5fb9b0f3e8384ab39f239a43d7b76361a00f0fa515b4d8a18cf?size=256",
+  "username": "S-Mamashin",
+  "surnames": "Mamashin · Mamashin Squad",
+  "user": [
+    {
+      "name": "Степан \uD83D\uDC51",
+      "age": 24,
+      "languages": ["Russian", "English(British)", "Suomi"],
+      "firstDev": "October, 2020",
+      "occupation": "Десктоп/Веб-разработка ⌨\uFE0F",
+      "sympathy": "CPP, GoLang, Rust \uD83E\uDD80",
+      "note": "Добро пожаловать на мою сайт-визитку в стиле Discord! \uD83D\uDE0E"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "JavaScript",
+      "url": "https://smamashin.ru/e/discordcard/assets/js.png",
+      "class": "js",
+      "description": "JavaScript Developer"
+    },
+    {
+      "title": "TypeScript",
+      "url": "https://smamashin.ru/e/discordcard/assets/ts.png",
+      "class": "ts",
+      "description": "TypeScript Developer"
+    },
+    {
+      "title": "Python",
+      "url": "https://smamashin.ru/e/discordcard/assets/py.png",
+      "class": "py",
+      "description": "Python Developer"
+    },
+    {
+      "title": "Active Developer",
+      "url": "https://smamashin.ru/e/discordcard/assets/ds-a-dev.svg",
+      "class": "ds-a-dev",
+      "description": "Active Developer"
+    },
+    {
+      "title": "HypeSquad Bravery",
+      "url": "https://smamashin.ru/e/discordcard/assets/ds-brav.webp",
+      "class": "ds-brav",
+      "description": "HypeSquad Bravery"
+    }
+  ],
+  "links": [
+    {
+      "title": "Telegram",
+      "url": "https://t.me/thetraextra",
+      "image": "https://smamashin.ru/e/discordcard/assets/links/tg.png",
+      "description": "Для связи" 
+    },
+    {
+      "title": "ВКонтакте",
+      "url": "https://vk.com/evangelion1995",
+      "image": "https://smamashin.ru/e/discordcard/assets/links/vk.png",
+      "description": "Че то делаю, но редко отвечаю" 
+    },
+    {
+      "title": "GitHub",
+      "url": "https://github.com/SMamashin",
+      "image": "https://smamashin.ru/e/discordcard/assets/links/git.png",
+      "description": "Мои поделки и сурсня" 
+    },
+    {
+      "title": "BlastHack",
+      "url": "https://www.blast.hk/members/386859/",
+      "image": "https://smamashin.ru/e/discordcard/assets/links/bh.png",
+      "description": "Ещё поделки и умные сообщения" 
+    },
+    {
+      "title": "Какой-то форум",
+      "url": "https://lolz.live/members/2717556/",
+      "image": "https://smamashin.ru/e/discordcard/assets/links/lolz.png",
+      "description": "Просто существую" 
+    },
+    {
+      "title": "Spotify",
+      "url": "https://open.spotify.com/user/31krtlmxgfyuljifugbwmutpgzly",
+      "image": "https://smamashin.ru/e/discordcard/assets/links/spotify.png",
+      "description": "Моё всё" 
+    },
+    {
+      "title": "Reddit",
+      "url": "https://www.reddit.com/user/SMamashin/",
+      "image": "https://smamashin.ru/e/discordcard/assets/links/reddit.png",
+      "description": "Делаю вид, что знаю английский на А+" 
+    },
+    {
+      "title": "SMamashin.ru",
+      "url": "https://smamashin.ru/",
+      "image": "https://smamashin.ru/assets/images/msc-mamashin-tag-2024-xl.png",
+      "description": "Легендарный сайт" 
+    }
+  ],
+  "tools": [
+    {
+      "title": "Visual Studio Code",
+      "url": "https://code.visualstudio.com/",
+      "image": "https://smamashin.ru/e/discordcard/assets/tools/vsc.png",
+      "description": "База"
+    },
+    {
+      "title": "PyCharm",
+      "url": "https://www.jetbrains.com/ru-ru/pycharm/",
+      "image": "https://smamashin.ru/e/discordcard/assets/tools/pycharm.png",
+      "description": "Для больших проектов на Python"
+    },
+    {
+      "title": "WebShtorm",
+      "url": "https://www.jetbrains.com/ru-ru/webshtorm/",
+      "image": "https://smamashin.ru/e/discordcard/assets/tools/ws.png",
+      "description": "Для написания JS/TS"
+    },
+    {
+      "title": "Photoshop",
+      "url": "https://adobe.com/ru/products/photoshop.html",
+      "image": "https://smamashin.ru/e/discordcard/assets/tools/photoshop.svg",
+      "description": "Создание UI и мини-ассетов"
+    },
+    {
+      "title": "Google Search",
+      "url": "https://google.com",
+      "image": "https://smamashin.ru/e/discordcard/assets/tools/google.png",
+      "description": "Поиск информации и решений"
+    }
+  ]
+}
